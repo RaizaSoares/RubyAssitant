@@ -1,6 +1,10 @@
 # RubyAssitant
 Word and Joke of the day files
+
+
 NOTE: THIS IS ONLY SOME OF THE CODE THAT I WROTE
+
+
 Our project was to create the "Ruby Assistant", which runs in
 the console and allows you to fetch useful information from the
 web. The features include catching up on Tweets, the weather,  the
